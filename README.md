@@ -11,3 +11,13 @@ Here are some screenshots of the game :
 ![image](https://user-images.githubusercontent.com/57768228/141652179-d2db6d8b-ae3a-4920-9c2f-b907251b658e.png)
 
 
+## How to Install and Play Doodle Jump game in your local machine
+
+1. Clone this repo
+
+```
+  git clone https://github.com/your-username/CIvo-Hackathon
+```
+
+2. Go to the folder in which you cloned this repo and run the index.html file
+3. Enjoy the game!
